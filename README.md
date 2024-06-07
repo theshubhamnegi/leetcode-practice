@@ -11,3 +11,13 @@ id : https://leetcode.com/u/hodoxat563/
 email : hodoxat563@javnoi.com
 <br>
 password : 123hodoxat563ROCKSatBINARY
+
+
+<code>
+cd path/to/your/project
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/your-username/your-repository.git
+git push -u origin main
+</code>
